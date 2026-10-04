@@ -1,0 +1,2 @@
+cancellation_id,booking_id,cancellation_date,reason,refund_amount
+1,1,2026-09-08,Passenger cancelled the journey,500.0

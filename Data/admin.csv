@@ -1,0 +1,4 @@
+admin_id,admin_name,email,password,role
+1,System Administrator,admin@railway.com,admin123,ADMIN
+2,Railway Manager,manager@railway.com,manager123,MANAGER
+3,Operations Manager,operations@railway.com,operations123,MANAGER

@@ -1,0 +1,11 @@
+passenger_id,passenger_name,age,gender,phone,email,password
+1,Murtaza Ansari,21,Male,9876543210,murtaza@gmail.com,Murtaza@123
+2,Ali Khan,24,Male,9876543211,ali@gmail.com,Ali@123
+3,Rahul Sharma,25,Male,9876543212,rahul@gmail.com,Rahul@123
+4,Priya Verma,22,Female,9876543213,priya@gmail.com,Priya@123
+5,Ahmed Khan,30,Male,9876543214,ahmed@gmail.com,Ahmed@123
+6,Sameer Khan,27,Male,9876543215,sameer@gmail.com,Sameer@123
+7,Neha Patel,26,Female,9876543216,neha@gmail.com,Neha@123
+8,Arjun Mehta,29,Male,9876543217,arjun@gmail.com,Arjun@123
+9,Sneha Joshi,23,Female,9876543218,sneha@gmail.com,Sneha@123
+10,Vikram Singh,32,Male,9876543219,vikram@gmail.com,Vikram@123

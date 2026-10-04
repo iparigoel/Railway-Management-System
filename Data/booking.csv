@@ -1,0 +1,11 @@
+booking_id,seat_id,journey_date,passenger_name,booking_status,pnr_number
+1,3,2026-09-10,Murtaza Ansari,Cancelled,PNR10001
+2,5,2026-09-10,Ali Khan,Confirmed,PNR10002
+3,6,2026-09-10,Rahul Sharma,Confirmed,PNR10003
+4,14,2026-09-10,Ahmed Khan,Confirmed,PNR10004
+5,15,2026-09-11,Sameer Khan,Confirmed,PNR10005
+6,26,2026-09-11,Priya Verma,Confirmed,PNR10006
+7,37,2026-09-11,Neha Patel,Confirmed,PNR10007
+8,49,2026-09-12,Arjun Mehta,Confirmed,PNR10008
+9,53,2026-09-12,Sneha Joshi,Confirmed,PNR10009
+10,61,2026-09-12,Vikram Singh,Confirmed,PNR10010
