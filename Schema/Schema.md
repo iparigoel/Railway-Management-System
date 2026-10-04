@@ -5,7 +5,7 @@ This folder contains the database schema documentation for the Railway Managemen
 ## Database
 
 **Database name:** `railwayreservationsystem`  
-**Database engine:** MySQL / InnoDB
+**Database engine:** MySQL 
 
 ## Tables
 
