@@ -63,7 +63,6 @@ ADMIN
 System Administration
 ```
 
-> Note: `booking` does not contain a `passenger_id` foreign key. It stores `passenger_name` as text, so the relationship between `passenger` and `booking` is not enforced by a database foreign key.
 
 ## Table Summary
 
